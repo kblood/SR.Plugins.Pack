@@ -39,8 +39,13 @@ d:\Unity3D\Satellite Reign\SR.Plugin.Pack\Cheats\obj\Debug\Cheats.pdb
 D:\Unity3D\Satellite Reign\SR.Plugin.Pack\Cheats\obj\Debug\Cheats.csproj.CoreCompileInputs.cache
 b:\Git\SR.Plugin.Pack\Cheats\bin\Debug\Cheats.dll
 b:\Git\SR.Plugin.Pack\Cheats\bin\Debug\Cheats.pdb
-b:\Git\SR.Plugin.Pack\Cheats\obj\Debug\Cheats.csprojAssemblyReference.cache
 b:\Git\SR.Plugin.Pack\Cheats\obj\Debug\Cheats.csproj.CoreCompileInputs.cache
 b:\Git\SR.Plugin.Pack\Cheats\obj\Debug\Cheats.csproj.CopyComplete
 b:\Git\SR.Plugin.Pack\Cheats\obj\Debug\Cheats.dll
 b:\Git\SR.Plugin.Pack\Cheats\obj\Debug\Cheats.pdb
+B:\Git\SR.Plugin.Pack\Cheats\bin\Debug\Assembly-CSharp-firstpass.dll
+B:\Git\SR.Plugin.Pack\Cheats\bin\Debug\Assembly-CSharp.dll
+B:\Git\SR.Plugin.Pack\Cheats\bin\Debug\UnityEngine.dll
+B:\Git\SR.Plugin.Pack\Cheats\bin\Debug\UnityEngine.Networking.dll
+B:\Git\SR.Plugin.Pack\Cheats\bin\Debug\UnityEngine.UI.dll
+B:\Git\SR.Plugin.Pack\Cheats\obj\Debug\Cheats.csprojAssemblyReference.cache
